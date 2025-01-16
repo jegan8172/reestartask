@@ -1,0 +1,56 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav-bar{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+.nav-bar__desc{
+    padding-top: 5px;
+}
+.menu-bar{
+    display: inline-block;
+    border: solid black 2px;
+    text-align: center;
+    width: 200px;
+    
+}
+.container{
+    text-align: center;
+    margin-top: 10px;
+}
+    
+.menu-bar__button{
+    background-color: black;
+    color: white;
+}
+.contact-bar__table{
+    margin-top: 10px;
+    display: inline-block;
+
+}
+.contact-bar{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    height: 200px;
+}
+.contact-bar__button--1{
+    background-color: yellow;
+    width: 300px;
+    margin-top: 10px;
+
+}
+.contact-bar__button--1:hover{
+    background-color: yellowgreen;
+    border: solid black 2px;
+}
+
+
+
